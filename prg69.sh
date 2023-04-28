@@ -8,3 +8,4 @@ do
 done
 #Print the array
 echo ${a[@]}
+#end of the era ps1
